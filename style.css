@@ -1,0 +1,36 @@
+body 
+{
+background-color: bisque;
+}
+h1 
+{
+    font-size: 30px;
+    color: chocolate;
+}
+h4
+{
+    font-size: 20px;
+    color: coral;
+}
+h3{
+    font-size: 20px;
+    color: darkslateblue;
+}
+h5{
+    font-size: 25px;
+    color: blue;
+}
+button
+{
+    font-size: 40px;
+    background-color: brown;
+    color: chartreuse;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+    
